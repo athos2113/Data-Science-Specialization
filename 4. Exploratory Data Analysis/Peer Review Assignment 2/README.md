@@ -2,7 +2,7 @@
 
 >Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? Using the base plotting system, make a plot showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008. Upload a PNG file containing your plot addressing this question.
 
-![plot1](plot1.PNG)
+![plot1](plot1.png)
 
 
 >Copy and paste the R code file for the plot uploaded in the previous question.
@@ -33,7 +33,7 @@ dev.off()
 
 >Upload a PNG file containing your plot addressing this question.
 
-![plot2](plot2.PNG)
+![plot2](plot2.png)
 
 >Copy and paste the R code file for the plot uploaded in the previous question.
 
@@ -62,11 +62,11 @@ dev.off(
 
 ```
 
->Of the four types of sources indicated by the type (point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999–2008 for Baltimore City? Which have seen increases in emissions from 1999–2008? Use the ggplot2 plotting system to make a plot answer this question.
+>Of the four types of sources indicated by the type (point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999â€“2008 for Baltimore City? Which have seen increases in emissions from 1999â€“2008? Use the ggplot2 plotting system to make a plot answer this question.
 
 >Upload a PNG file containing your plot addressing this question.
 
-![plot3](plot3.PNG)
+![plot3](plot3.png)
 
 >Copy and paste the R code file for the plot uploaded in the previous question.
 
@@ -99,11 +99,11 @@ dev.off()
 ```
 
 
->Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008?
+>Across the United States, how have emissions from coal combustion-related sources changed from 1999â€“2008?
 
 >Upload a PNG file containing your plot addressing this question.
 
-![plot4](plot4.PNG)
+![plot4](plot4.png)
 
 >Copy and paste the R code file for the plot uploaded in the previous question.
 
@@ -134,11 +134,11 @@ dev.off()
 ```
 
 
->How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
+>How have emissions from motor vehicle sources changed from 1999â€“2008 in Baltimore City?
 
 >Upload a PNG file containing your plot addressing this question.
 
-![plot5](plot5.PNG)
+![plot5](plot5.png)
 
 >Copy and paste the R code file for the plot uploaded in the previous question.
 
@@ -171,7 +171,7 @@ dev.off()
 
 >Upload a PNG file containing your plot addressing this question.
 
-![plot6](plot6.PNG)
+![plot6](plot6.png)
 
 >Copy and paste the R code file for the plot uploaded in the previous question.
 
