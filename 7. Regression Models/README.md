@@ -1,4 +1,4 @@
-# Reproducible Research
+# Regression Models
 
 
 
@@ -12,7 +12,7 @@
 Linear models, as their name implies, relates an outcome to a set
  of predictors of interest using linear assumptions.  Regression models,
  a subset of linear models, are the most important statistical analysis
- tool in a data scientistís toolkit. This course covers regression analysis,
+ tool in a data scientist‚Äôs toolkit. This course covers regression analysis,
  least squares and inference using regression models. Special cases of the regression model,
  ANOVA and ANCOVA will be covered as well. Analysis of residuals and variability will
  be investigated. The course will cover modern thinking on model selection and novel
@@ -34,5 +34,5 @@ You work for Motor Trend, a magazine about the automobile industry.
  in exploring the relationship between a set of variables and miles
  per gallon (MPG) (outcome). They are particularly interested in the following two questions:
 
-1. ìIs an automatic or manual transmission better for MPGî
+1. ‚ÄúIs an automatic or manual transmission better for MPG‚Äù
 2. "Quantify the MPG difference between automatic and manual transmissions"
