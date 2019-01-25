@@ -19,7 +19,7 @@ techniques, philosophies and nuance. This course presents the fundamentals of in
 
 1. Statistics
 2. Statistical Inference
-3. Statistical Hypothesis Testin
+3. Statistical Hypothesis Testing
 2. Data Analysis
 
 
